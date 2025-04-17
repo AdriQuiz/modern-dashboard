@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react'
-import Sidebar from '@/layouts/sidebar'
+import Sidebar from '../layouts/sidebar'
 import { cn } from '@/utils/cn'
 import Header from '@/layouts/Header'
 import { Outlet } from 'react-router-dom'
